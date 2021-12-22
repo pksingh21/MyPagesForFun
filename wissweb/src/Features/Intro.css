@@ -1,0 +1,7 @@
+.wissTag {
+  -webkit-filter: invert(1);
+  filter: invert(2);
+}
+.ok {
+  font-family: "JetBrains Mono", monospace;
+}
